@@ -1,6 +1,6 @@
 ## Hey listen, Meu nome é Paulo Sergio, seja bem vindo!
 - 👋 i am student to become a BackEnd developer
-- 👀 I’m interested in BackEnd area u know and datascience
+- 👀 I’m interested in BackEnd area and datascience
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on LabTech (group of search from university)
 
