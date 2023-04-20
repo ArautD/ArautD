@@ -53,8 +53,9 @@
   <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
 </div><br/>
   
-  Apaixonado por tecnologia, tentando sempre melhorar e trazer um bom dia à alguém.
-  "Obrigado pelo seu apoio" - MAITO GAI
+  - Apaixonado por tecnologia, tentando sempre melhorar e trazer um bom dia à alguém.
+  
+  - "Obrigado pelo seu apoio" - MAITO GAI
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
