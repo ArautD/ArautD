@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d77036&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d77036&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Paulo+Sergio+Lemos;I'm+22+years+old;I'm+from+Mãe+do+Rio+|PA|+Brazil;I+Graduating+in+system+of+Information+|UFRA|;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d77036&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Paulo+Sergio+Lemos;I'm+22+years+old;I'm+from+Brazil;I+Graduating+in+system+of+Information+|UFRA|;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArautD&bg_color=0d1117&color=D77036&line=7F3F35&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -41,7 +41,7 @@
 </div><br/>
 <div style="display: inline_block">
    
-## Tecnologias que eu uso no meu dia
+## Technologies already used
 
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black" />
@@ -55,7 +55,7 @@
   <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black"
 </div><br/>
   
-  - Apaixonado por tecnologia, tentando sempre melhorar e trazer um bom dia à alguém.
+  - Passionate about technology, always trying to improve and bring a good day to someone.
   
   - "Obrigado pelo seu apoio" - MAITO GAI
   
