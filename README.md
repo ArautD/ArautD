@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d77036&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Paulo+Sergio+Lemos;I'm+22+years+old;I'm+from+Brazil;I+Graduating+in+system+of+Information+|UFRA|;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArautD&bg_color=0d1117&color=D77036&line=7F3F35&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArautD&bg_color=0f172a&color=ffffff&line=a855f7&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+
 
 
 <p align="center">
