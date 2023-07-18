@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/12sIOcNCNrQlEc/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arautd&label=Profile%20views&color=0e75b6&style=flat" alt="arautd" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot with Java,NodeJS and Django.**
+- 🌱 I’m currently learning **technologies and frameworks to Back-End development**
 
 - 📫 How to reach me **contatopaulolemosgit@gmail.com**
 
