@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/paulo-sergio-lemos-29741b125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paulo-sergio-lemos-29741b125/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/lemos_paulserg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/lemos_paulserg" height="30" width="40" /></a>
-  <a href = "mailto:contatopaulolemosgit@gmail.com"> <img src="https://icons8.com.br/icon/qyRpAggnV0zH/gmail"_blank"></a>
+<a href = "mailto:contatopaulolemosgit@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" height="30" width"40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
