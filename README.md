@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Paulo Sergio, a System Analyst </h1>
-<h3 align="center">A simple man from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/12sIOcNCNrQlEc/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arautd&label=Profile%20views&color=0e75b6&style=flat" alt="arautd" /> </p>
 
