@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/paulo-sergio-lemos-arautd/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/lemos_paulserg" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/paulo-sergio-lemos-arautd/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://instagram.com/lemos_paulserg" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="40" width="40" /></a>
 <a href="mailto:contatopaulolemosgit@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" height="40" width="40" /></a>
 </p>
 
