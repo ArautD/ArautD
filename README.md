@@ -16,19 +16,19 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left" style="display: inline-block; outline: none; border: none;">
-<a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" height="40" /> </a>
-<a href="https://www.w3schools.com/cpp"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="40" height="40" /> </a>
-<a href="https://www.java.com/pt-BR" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="40" height="40" /> </a>
+<a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" height="40" /></a>
+<a href="https://www.python.org"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="40" height="40" /></a>
+<a href="https://www.java.com/pt-BR" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" /></a>
-<a href="https://postman.com" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="python" width="40" height="40" /> </a>
-<a href="https://spring.io/" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="spring" width="40" height="40" /> </a><!-- Frameworks -->
-<a href="https://nodejs.org" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40" /> </a>
-<a href="https://nodejs.org"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="javascript" width="40" height="40" /> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="40" height="40" /> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40" /> </a><!-- DataBase -->
-<a href="https://www.postgresql.org" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="python" width="40" height="40" /></a>
+<a href="https://spring.io/" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="spring" width="40" height="40" /></a><!-- Frameworks -->
+<a href="https://nodejs.org" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40" /></a>
+<a href="https://react.dev/learn"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="javascript" width="40" height="40" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="40" height="40" /></a>
+<a href="https://www.mysql.com/" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40" /></a><!-- DataBase -->
+<a href="https://www.postgresql.org" target="_blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=ArautD&show_icons=true&count_private=true&hide_border=true&title_color=fb8c00&icon_color=7F3F35&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Sergio Lemos github stats" /> 
